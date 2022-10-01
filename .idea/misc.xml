@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/drawable/ic_bnb_fab.xml" value="0.1835" />
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/layout/activity_main.xml" value="0.3501303214596003" />
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/layout/fragment_calendar_.xml" value="0.2" />
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/layout/fragment_history_.xml" value="0.4" />
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/layout/fragment_home_.xml" value="0.1" />
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/layout/fragment_profile.xml" value="0.2109375" />
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/layout/fragment_profile_.xml" value="0.264" />
+        <entry key="..\:/Android_DEV/Learning/NavBar/app/src/main/res/menu/nav_bar.xml" value="0.4" />
+        <entry key="..\:/Users/yemin/Desktop/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Desktop/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/drawable/ic_account_bnb.xml" value="0.1" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.1" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/drawable/ic_baseline_monetization_on_24.xml" value="0.1" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/drawable/ic_baseline_money_off_24.xml" value="0.1" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/drawable/ic_bnb_fab.xml" value="0.1815" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/fragment_add.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/fragment_calendar_.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/fragment_edit.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/fragment_history_.xml" value="0.2" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/fragment_home_.xml" value="0.3787610619469027" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/fragment_note.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/fragment_profile_.xml" value="0.370242214532872" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/item_first.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/item_home_rv.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/item_note.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/item_second.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/layout_success_dailog.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/layout/popup_edt.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Downloads/ProjectDailyExpense-master-20220920T112352Z-001/ProjectDailyExpense-master/app/src/main/res/menu/nav_bar.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/drawable/border.xml" value="0.1785" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/drawable/button_sucess_background.xml" value="0.1165" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/drawable/dialog_background.xml" value="0.1165" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/drawable/done.xml" value="0.1165" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1165" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/drawable/sucess_background.xml" value="0.1165" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/activity_splash_screen.xml" value="0.26458333333333334" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/cancle_test.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_3.xml" value="0.1" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment__note.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_add.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_calendar_.xml" value="0.2" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_edit.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_history_.xml" value="0.2786458333333333" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_home_.xml" value="0.132890365448505" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_note.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/fragment_profile_.xml" value="0.2786458333333333" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/item_first.xml" value="0.205859375" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/item_home_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/item_home_rv.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/item_note.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/item_second.xml" value="0.2734375" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/layout_success_dailog.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/layout/popup_edt.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/menu/edit_delete.xml" value="0.2734375" />
+        <entry key="..\:/Users/yemin/Project/ProjectDailyExpense/app/src/main/res/menu/nav_bar.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/border.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/bordrer.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/button_sucess_background.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/color_g.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/dialog_background.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_bnb_fab.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_history_bnb.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_home_bnb.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/sucess_background.xml" value="0.148" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21418609619140624" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/fragment_add.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/fragment_calendar_.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_edit.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/fragment_history_.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/fragment_note.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/fragment_profile_.xml" value="0.23114420572916672" />
+        <entry key="app/src/main/res/layout/item_first.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/item_home_rv.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/item_note.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/item_second.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/layout_success_dailog.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/popup_edt.xml" value="0.2796875" />
+        <entry key="app/src/main/res/menu/nav_bar.xml" value="0.2796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bnbMenuHome"
+        android:title="Home"
+        android:iconTint="@color/colorTextPrimary"
+        android:icon="@drawable/ic_home_bnb"/>
+
+    <item android:id="@+id/bmbMenuCalender"
+        android:title="Calender"
+        android:iconTint="@color/colorTextPrimary"
+        android:iconTintMode="screen"
+        android:icon="@drawable/ic_calender_bnb"/>
+
+    <item android:id="@+id/fba"
+        android:checkable="false"
+        android:enabled="false"
+        android:title=""/>
+
+    <item android:id="@+id/bnbMenuHistory"
+        android:title="History"
+        android:iconTint="@color/colorTextPrimary"
+        android:icon="@drawable/ic_history_bnb"/>
+
+    <item android:id="@+id/bnbMenuAccount"
+        android:title="Account"
+        android:iconTint="@color/colorTextPrimary"
+        android:icon="@drawable/ic_account_bnb"/>
+
+</menu>
