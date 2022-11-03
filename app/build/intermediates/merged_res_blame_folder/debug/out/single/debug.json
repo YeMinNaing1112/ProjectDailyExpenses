@@ -1,226 +1,226 @@
 [
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_monetization_on_24.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_baseline_monetization_on_24.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_money_off_24.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_baseline_money_off_24.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_24.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_item_note.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_note.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\menu_edit_delete.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\menu\\edit_delete.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_item_second.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_second.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_dialog_background.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\dialog_background.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_home_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_done.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\done.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_money_off_24.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_baseline_money_off_24.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_bnb.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_home_bnb.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\menu_nav_bar.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\menu\\nav_bar.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_edit.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_edit.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_calendar_.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_calendar_.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_item_second.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_second.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo2.png.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\logo2.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_bordrer.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\bordrer.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calender_bnb.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_calender_bnb.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\raw_piggy.json.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\raw\\piggy.json"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_note.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_note.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_popup_edt.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\popup_edt.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_add.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_add.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\menu_nav_bar.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\menu\\nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_history_.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_history_.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\font_bold_ubandu.ttf.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\font\\bold_ubandu.ttf"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_account_bnb.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_account_bnb.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_calendar_.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_calendar_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_dialog_background.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\dialog_background.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_bnb.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_home_bnb.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_history_bnb.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_history_bnb.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_tp.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\bg_tp.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\raw_piggy.json.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\raw\\piggy.json"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_history_.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_history_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_edit.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_edit.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_add.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_add.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_home_.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_item_home_rv.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_home_rv.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_attach_money_24.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_baseline_attach_money_24.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calender_bnb.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_calender_bnb.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_item_note.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_note.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.jpg.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\background.jpg"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_sucess_background.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\sucess_background.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_sucess_background.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\button_sucess_background.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_sucess_background.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\sucess_background.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile_.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_profile_.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_dailyexpenses.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\dailyexpenses.jpg"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_history_bnb.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_history_bnb.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bnb_fab.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_bnb_fab.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_note.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_note.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_success_dailog.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\layout_success_dailog.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_done.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\done.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_sucess_background.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\button_sucess_background.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_dailyexpenses.jpg.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\dailyexpenses.jpg"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_item_first.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_first.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_color_g.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\color_g.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\logo2.png"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_popup_edt.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\popup_edt.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_tp.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\bg_tp.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_photo_camera_24.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_baseline_photo_camera_24.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_baseline_attach_money_24.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\border.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_color_g.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\color_g.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\menu_edit_delete.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\menu\\edit_delete.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_monetization_on_24.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_baseline_monetization_on_24.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_item_home_rv.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_home_rv.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_success_dailog.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\layout_success_dailog.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_border.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\border.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_account_bnb.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_account_bnb.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile_.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_profile_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bnb_fab.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_bnb_fab.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\color_color.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\color\\color.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\logo.jpg"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.jpg.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\logo.jpg"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\font_bold_ubandu.ttf.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\font\\bold_ubandu.ttf"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_baseline_photo_camera_24.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\layout_item_first.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_first.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bordrer.xml.flat",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\drawable\\bordrer.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\merged_res\\debug\\color_color.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\color\\color.xml"
     }
 ]

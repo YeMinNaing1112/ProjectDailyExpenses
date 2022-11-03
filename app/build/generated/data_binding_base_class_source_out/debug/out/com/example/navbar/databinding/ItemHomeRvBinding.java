@@ -4,10 +4,10 @@ package com.example.navbar.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.navbar.R;
@@ -17,7 +17,13 @@ import java.lang.String;
 
 public final class ItemHomeRvBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ConstraintLayout rootView;
+
+  @NonNull
+  public final TextView textView3;
+
+  @NonNull
+  public final TextView textView4;
 
   @NonNull
   public final TextView tvHomeItemName;
@@ -25,16 +31,19 @@ public final class ItemHomeRvBinding implements ViewBinding {
   @NonNull
   public final TextView tvHomeItemPrice;
 
-  private ItemHomeRvBinding(@NonNull LinearLayout rootView, @NonNull TextView tvHomeItemName,
+  private ItemHomeRvBinding(@NonNull ConstraintLayout rootView, @NonNull TextView textView3,
+      @NonNull TextView textView4, @NonNull TextView tvHomeItemName,
       @NonNull TextView tvHomeItemPrice) {
     this.rootView = rootView;
+    this.textView3 = textView3;
+    this.textView4 = textView4;
     this.tvHomeItemName = tvHomeItemName;
     this.tvHomeItemPrice = tvHomeItemPrice;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -59,6 +68,18 @@ public final class ItemHomeRvBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.textView3;
+      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
+      if (textView3 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView4;
+      TextView textView4 = ViewBindings.findChildViewById(rootView, id);
+      if (textView4 == null) {
+        break missingId;
+      }
+
       id = R.id.tv_home_item_name;
       TextView tvHomeItemName = ViewBindings.findChildViewById(rootView, id);
       if (tvHomeItemName == null) {
@@ -71,7 +92,8 @@ public final class ItemHomeRvBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ItemHomeRvBinding((LinearLayout) rootView, tvHomeItemName, tvHomeItemPrice);
+      return new ItemHomeRvBinding((ConstraintLayout) rootView, textView3, textView4,
+          tvHomeItemName, tvHomeItemPrice);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

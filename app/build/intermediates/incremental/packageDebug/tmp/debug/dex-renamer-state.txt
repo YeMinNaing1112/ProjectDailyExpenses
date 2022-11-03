@@ -1,19 +1,19 @@
-#Sat Oct 01 09:56:14 MMT 2022
+#Thu Nov 03 14:12:35 MMT 2022
 path.4=3/classes.dex
 path.3=1/classes.dex
 path.2=11/classes.dex
 path.1=0/classes.dex
 path.5=7/classes.dex
 path.0=classes.dex
-base.4=C\:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
-base.3=C\:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.2=C\:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.1=C\:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=C\:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=C\:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.3=C\:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=C\:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.1=C\:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 renamed.5=classes6.dex
 renamed.4=classes5.dex
-base.5=C\:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.5=C\:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex

@@ -4,7 +4,6 @@ package com.example.navbar.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
@@ -12,6 +11,7 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.navbar.R;
+import com.google.android.material.button.MaterialButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -21,10 +21,10 @@ public final class FragmentEditBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final Button btCancelEditFragment;
+  public final MaterialButton btCancelEditFragment;
 
   @NonNull
-  public final Button btSaveEditFragment;
+  public final MaterialButton btSaveEditFragment;
 
   @NonNull
   public final EditText etEditItemName;
@@ -32,9 +32,9 @@ public final class FragmentEditBinding implements ViewBinding {
   @NonNull
   public final EditText etEditItemPrice;
 
-  private FragmentEditBinding(@NonNull FrameLayout rootView, @NonNull Button btCancelEditFragment,
-      @NonNull Button btSaveEditFragment, @NonNull EditText etEditItemName,
-      @NonNull EditText etEditItemPrice) {
+  private FragmentEditBinding(@NonNull FrameLayout rootView,
+      @NonNull MaterialButton btCancelEditFragment, @NonNull MaterialButton btSaveEditFragment,
+      @NonNull EditText etEditItemName, @NonNull EditText etEditItemPrice) {
     this.rootView = rootView;
     this.btCancelEditFragment = btCancelEditFragment;
     this.btSaveEditFragment = btSaveEditFragment;
@@ -70,13 +70,13 @@ public final class FragmentEditBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.bt_cancel_edit_fragment;
-      Button btCancelEditFragment = ViewBindings.findChildViewById(rootView, id);
+      MaterialButton btCancelEditFragment = ViewBindings.findChildViewById(rootView, id);
       if (btCancelEditFragment == null) {
         break missingId;
       }
 
       id = R.id.bt_save_edit_fragment;
-      Button btSaveEditFragment = ViewBindings.findChildViewById(rootView, id);
+      MaterialButton btSaveEditFragment = ViewBindings.findChildViewById(rootView, id);
       if (btSaveEditFragment == null) {
         break missingId;
       }

@@ -7,7 +7,7 @@
     tools:context=".Fragment.EditFragment">
 
     <androidx.cardview.widget.CardView
-        app:cardBackgroundColor="#87D17C"
+        app:cardBackgroundColor="@color/colorPrimaryDark"
         app:cardCornerRadius="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -50,31 +50,28 @@
                 android:gravity="center"
                 android:orientation="horizontal">
 
-                <Button
+                <com.google.android.material.button.MaterialButton
                     android:id="@+id/bt_cancel_edit_fragment"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginRight="30dp"
                     android:backgroundTint="#D37272"
                     android:text="Cancel"
-                    android:textColor="@color/colorWhite"/>
+                    android:textColor="@color/colorWhite"
+                    app:cornerRadius="30dp"/>
 
-                <Button
+                <com.google.android.material.button.MaterialButton
                     android:id="@+id/bt_save_edit_fragment"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="30dp"
-                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:backgroundTint="#53AE53"
                     android:textColor="@color/colorWhite"
-                    android:text="Edit" />
+                    android:text="Edit"
+                    app:cornerRadius="30dp"/>
 
             </LinearLayout>
-
-
         </LinearLayout>
-
-
-
 
     </androidx.cardview.widget.CardView>
 

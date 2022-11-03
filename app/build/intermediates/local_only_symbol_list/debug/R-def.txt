@@ -80,6 +80,8 @@ id rv_note
 id textTitle
 id textView
 id textView2
+id textView3
+id textView4
 id tv_balance
 id tv_dailyExpense
 id tv_history

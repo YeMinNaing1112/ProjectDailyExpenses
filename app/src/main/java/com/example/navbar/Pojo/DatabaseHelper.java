@@ -78,10 +78,13 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
     }
     //delete Data
-    public void deleteItem(String name){
-      SQLiteDatabase  db=this.getWritableDatabase();
-        db.delete(TABLE_NAME, "ITEM_NAME=?", new String[]{name});
+    public void deleteItem(String name,String price){
+        SQLiteDatabase  db=this.getWritableDatabase();
+
+        db.delete(TABLE_NAME, "ITEM_NAME=? and ITEM_PRICE=?", new String[]{name,price});
         db.close();
+
+
     }
 
 }

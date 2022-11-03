@@ -1,62 +1,58 @@
 [
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_note.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_note.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_edit.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_home_.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_note.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_note.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_first.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_first.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile_.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_profile_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_success_dailog.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\layout_success_dailog.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_rv.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_home_rv.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_history_.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_history_.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_first.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_first.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calendar_.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_calendar_.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_success_dailog.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\layout_success_dailog.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_second.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_second.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_note.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calendar_.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_calendar_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_note.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_history_.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_history_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popup_edt.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\popup_edt.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_second.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\item_second.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_add.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popup_edt.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\popup_edt.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_rv.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\item_home_rv.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_home_.xml"
     },
     {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile_.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_profile_.xml"
-    },
-    {
-        "merged": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit.xml",
-        "source": "C:\\Users\\yemin\\Desktop\\ProjectDailyExpense-master-20220920T112352Z-001\\ProjectDailyExpense-master\\app\\src\\main\\res\\layout\\fragment_edit.xml"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ProjectDailyExpenses\\app\\src\\main\\res\\layout\\fragment_add.xml"
     }
 ]

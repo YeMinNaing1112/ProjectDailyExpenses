@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorError">#CC0000</color>
+    <color name="colorNeutral">#108000</color>
+    <color name="colorPrimary">	#2CA01C</color>
+    <color name="colorPrimaryDark">	#108000</color>
+    <color name="colorSuccess">#AFAFAF</color>
+    <color name="colorTextPrimary">#108000</color>
+    <color name="colorWarning">#FFCC00</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <string name="app_name">DailyExpences</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="AlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#353535</item>
+
+    </style>
+</resources>

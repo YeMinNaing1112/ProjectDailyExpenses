@@ -7,6 +7,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 
+import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -42,6 +43,8 @@ public class Home_Fragment extends Fragment {
     String price;
     int uses;
     int totalPrice;
+    //For Dialog fragment
+    private Dialog dialog;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -69,7 +72,7 @@ public class Home_Fragment extends Fragment {
         }
         // if not, it will return a plain text
 
-showExpenses();
+        showExpenses();
 
         showBalance();
         return view;
@@ -115,7 +118,7 @@ showExpenses();
                         return true;
                     case R.id.delete:
                         DatabaseHelper databaseHelper = new DatabaseHelper(getContext());
-                        databaseHelper.deleteItem(name);
+                        databaseHelper.deleteItem(name,price);
                         refresh();
                         Toast.makeText(getContext(), name +" is deleted", Toast.LENGTH_LONG).show();
                         return true;
@@ -134,14 +137,17 @@ showExpenses();
     }
 
     public void  showDialog(String name){
-        AlertDialog.Builder builder= new AlertDialog.Builder(getContext());
-        LayoutInflater layoutInflater= LayoutInflater.from(getContext());
-        FragmentEditBinding binding=FragmentEditBinding.inflate(layoutInflater);
+
+        AlertDialog.Builder builder= new AlertDialog.Builder(this.getContext());
+        //LayoutInflater layoutInflater= LayoutInflater.from(getContext());
+        FragmentEditBinding binding=FragmentEditBinding.inflate(getLayoutInflater());
         builder.setView(binding.getRoot());
         Dialog dialog= builder.create();
+        dialog.setContentView(R.layout.fragment_edit);
         dialog.show();
         binding.etEditItemName.setText(name);
         binding.etEditItemPrice.setText(price);
+
         binding.btSaveEditFragment.setOnClickListener(view -> {
             String item_name = binding.etEditItemName.getText().toString().trim();
             String item_price = binding.etEditItemPrice.getText().toString().trim();
@@ -149,8 +155,8 @@ showExpenses();
 
             databaseHelper.update(name, item_name, item_price);
             binding.etEditItemName.setText("");
-           binding.etEditItemPrice.setText("");
-           refresh();
+            binding.etEditItemPrice.setText("");
+            refresh();
             dialog.dismiss();
             Toast.makeText(getContext(), "Edit Complete", Toast.LENGTH_SHORT).show();
 
@@ -159,6 +165,9 @@ showExpenses();
         binding.btCancelEditFragment.setOnClickListener(view -> {
             dialog.dismiss();
         });
+
+
+
     }
 
 }
